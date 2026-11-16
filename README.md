@@ -1,29 +1,28 @@
-&#x20;\<div align="center">
+```html
+<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Aaron%20Albert%20Fernandes&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=60&descSize=16](https://capsule-render.vercel.app/api?type=waving\&color=0:141E30,100:243B55\&height=200\&section=header\&text=Aaron%20Albert%20Fernandes\&fontSize=38\&fontColor=ffffff\&fontAlignY=38\&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist\&descAlignY=60\&descSize=16)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Aaron%20Albert%20Fernandes&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=60&descSize=16" width="100%" alt="Aaron Albert Fernandes" />
 
-# 👋 Hi, I'm Aaron Albert Fernandes!
+# Hi, I'm Aaron Albert Fernandes!
 
 ### A passionate Full Stack Developer & MERN Stack Specialist from India 🇮🇳
 
-*Building scalable web applications and creating meaningful digital experiences.*
+[Portfolio](https://aaronportfolio-phi.vercel.app) · [LinkedIn](https://linkedin.com/in/aaron-fernandes-2467a536b) · [Email](mailto:aaronfernandes08112004@gmail.com)
 
-\<a href="[https://aaronportfolio-phi.vercel.app](https://aaronportfolio-phi.vercel.app)"> \<img src="[https://img.shields.io/badge/Portfolio-Visit%20Website-243B55?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-Visit%20Website-243B55?style=for-the-badge\&logo=vercel\&logoColor=white)" /> \</a> \<a href="[https://linkedin.com/in/aaron-fernandes-2467a536b](https://linkedin.com/in/aaron-fernandes-2467a536b)"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" /> \</a> \<a href="mailto\:aaronfernandes08112004\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" /> \</a>
+<img src="https://komarev.com/ghpvc/?username=AaronF2004&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 
-\<img src="[https://komarev.com/ghpvc/?username=AaronF2004&label=Profile%20Views&color=0e75b6&style=flat-square](https://komarev.com/ghpvc/?username=AaronF2004\&label=Profile%20Views\&color=0e75b6\&style=flat-square)" />
-
-\</div>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Building scalable web applications and full-stack solutions like VestaGo and Tomato.**
+- 🔭 Currently working on **building scalable web applications and full-stack solutions like VestaGo and Tomato.**
 - 🌱 Currently learning **Advanced Cloud Architecture & System Design.**
-- 👯 Looking to collaborate on **Open-source web projects and full-stack platforms.**
+- 👯 Looking to collaborate on **open-source web projects and full-stack platforms.**
 - 👨‍💻 All of my projects are available on my [Portfolio](https://aaronportfolio-phi.vercel.app).
 - 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, and RESTful APIs.**
-- 📫 Reach me at [**aaronfernandes08112004@gmail.com**](mailto\:aaronfernandes08112004@gmail.com).
+- 📫 Reach me at **[aaronfernandes08112004@gmail.com](mailto:aaronfernandes08112004@gmail.com)**.
 
 ---
 
@@ -31,71 +30,94 @@
 
 ### Programming Languages
 
-\<p align="left"> \<a href="[https://www.java.com](https://www.java.com)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" width="45" height="45" alt="Java"/>\</a> \<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" width="45" height="45" alt="JavaScript"/>\</a> \<a href="[https://www.typescriptlang.org/](https://www.typescriptlang.org/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)" width="45" height="45" alt="TypeScript"/>\</a> \<a href="[https://www.w3.org/html/](https://www.w3.org/html/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)" width="45" height="45" alt="HTML5"/>\</a> \<a href="[https://www.w3schools.com/css/](https://www.w3schools.com/css/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)" width="45" height="45" alt="CSS3"/>\</a> \</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />
+</p>
 
 ### Frontend Development
 
-\<p align="left"> \<a href="[https://reactjs.org/](https://reactjs.org/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)" width="45" height="45" alt="React"/>\</a> \<a href="[https://reactnative.dev/](https://reactnative.dev/)">\<img src="[https://reactnative.dev/img/header_logo.svg](https://reactnative.dev/img/header_logo.svg)" width="45" height="45" alt="React Native"/>\</a> \<a href="[https://redux.js.org](https://redux.js.org)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)" width="45" height="45" alt="Redux"/>\</a> \<a href="[https://getbootstrap.com](https://getbootstrap.com)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)" width="45" height="45" alt="Bootstrap"/>\</a> \</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" title="React" />
+  <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" title="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" title="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" title="Bootstrap" />
+</p>
 
 ### Backend Development
 
-\<p align="left"> \<a href="[https://nodejs.org](https://nodejs.org)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)" width="45" height="45" alt="Node.js"/>\</a> \<a href="[https://expressjs.com](https://expressjs.com)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)" width="45" height="45" alt="Express.js"/>\</a> \</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" title="Express.js" />
+</p>
 
 ### Databases
 
-\<p align="left"> \<a href="[https://www.mongodb.com/](https://www.mongodb.com/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)" width="45" height="45" alt="MongoDB"/>\</a> \<a href="[https://www.mysql.com/](https://www.mysql.com/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)" width="45" height="45" alt="MySQL"/>\</a> \<a href="[https://www.postgresql.org](https://www.postgresql.org)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)" width="45" height="45" alt="PostgreSQL"/>\</a> \</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+</p>
 
 ### Tools and Platforms
 
-\<p align="left"> \<a href="[https://git-scm.com/](https://git-scm.com/)">\<img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)" width="45" height="45" alt="Git"/>\</a> \<a href="[https://www.docker.com/](https://www.docker.com/)">\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)" width="45" height="45" alt="Docker"/>\</a> \<a href="[https://firebase.google.com/](https://firebase.google.com/)">\<img src="[https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)" width="45" height="45" alt="Firebase"/>\</a> \<a href="[https://postman.com](https://postman.com)">\<img src="[https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)" width="45" height="45" alt="Postman"/>\</a> \</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" title="Firebase" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" title="Postman" />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/AaronF2004](https://github.com/AaronF2004)"> \<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=AaronF2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AaronF2004\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&rank_icon=github)" /> \</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AaronF2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Aaron's GitHub statistics" />
 
-\<a href="[https://github.com/AaronF2004](https://github.com/AaronF2004)"> \<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AaronF2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronF2004\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" /> \</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronF2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
 
-\</div>
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=AaronF2004&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=AaronF2004\&theme=tokyonight\&hide_border=true)" width="75%" />
+<img src="https://streak-stats.demolab.com?user=AaronF2004&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak" />
 
-\</div>
+</div>
 
 ---
 
 ## 📈 Contribution Activity Graph
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=AaronF2004&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=AaronF2004\&theme=tokyo-night\&hide_border=true\&area=true)" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronF2004&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
 
-\</div>
+</div>
 
 ---
 
 ## 🏆 GitHub Profile Trophies
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-profile-trophy.vercel.app/?username=AaronF2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4](https://github-profile-trophy.vercel.app/?username=AaronF2004\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&column=4)" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=AaronF2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub profile trophies" />
 
-\</div>
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
-\<div align="center">
+<div align="center">
 
 ### 🚀 VestaGo
 
@@ -105,30 +127,33 @@ A full-stack project currently under development.
 
 A full-stack project currently under development.
 
-\<br/>
+Explore my [GitHub repositories](https://github.com/AaronF2004?tab=repositories) or visit my [Portfolio](https://aaronportfolio-phi.vercel.app).
 
-\<a href="[https://github.com/AaronF2004?tab=repositories](https://github.com/AaronF2004?tab=repositories)"> \<img src="[https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
-
-\<a href="[https://aaronportfolio-phi.vercel.app](https://aaronportfolio-phi.vercel.app)"> \<img src="[https://img.shields.io/badge/Visit%20My%20Portfolio-243B55?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Visit%20My%20Portfolio-243B55?style=for-the-badge\&logo=vercel\&logoColor=white)" /> \</a>
-
-\</div>
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://linkedin.com/in/aaron-fernandes-2467a536b](https://linkedin.com/in/aaron-fernandes-2467a536b)" target="\_blank"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" /> \</a>
+<a href="https://linkedin.com/in/aaron-fernandes-2467a536b">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/aa_ron_1758">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram" title="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:aaronfernandes08112004@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email" title="Email" />
+</a>
 
-\<a href="[https://instagram.com/aa_ron_1758](https://instagram.com/aa_ron_1758)" target="\_blank"> \<img src="[https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" /> \</a>
-
-\<a href="mailto\:aaronfernandes08112004\@gmail.com"> \<img src="[https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" /> \</a>
-
-\<br/>\<br/>
+<br /><br />
 
 ### 💡 Code. Create. Innovate. Repeat.
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:141E30,100:243B55\&height=100\&section=footer)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer" width="100%" alt="Footer banner" />
 
-\</div>
+</div>
+```
