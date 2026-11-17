@@ -1,16 +1,16 @@
-<!-- Header Banner -->
+<!-- Header Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:0EA5E9&height=200&section=header&text=Aaron%20Albert%20Fernandes&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=17" width="100%" alt="Aaron Albert Fernandes Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:0EA5E9&height=200&section=header&text=Aaron%20Albert%20Fernandes&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist%20%7C%20Computer%20Science%20Graduate&descAlignY=58&descSize=16" width="100%" alt="Aaron Albert Fernandes Header" />
 </p>
 
-<!-- Animated Role Subtitle -->
+<!-- Dynamic Typing Subtitle -->
 <p align="center">
   <a href="https://aaronportfolio-phi.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Architecting+Scalable+Full-Stack+Web+Applications;MERN+Stack+%26+Cloud+System+Design+Specialist;Building+VestaGo+%26+Tomato+%E2%80%94+Open+to+Collaborations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Data-Driven+Full+Stack+Developer+%26+MERN+Specialist;Designing+High-Performance+RESTful+APIs+%26+Scalable+Web+Apps;Creator+of+VestaGo%2C+Tomato+%26+DevPress+%7C+Open+to+Opportunities" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Top Badges: Socials, Portfolio & Live Metrics -->
+<!-- Top Contact & Profile Metrics Bar -->
 <p align="center">
   <a href="https://aaronportfolio-phi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
@@ -24,69 +24,84 @@
   <a href="https://instagram.com/aa_ron_1758" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=aaronf2004&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aaronf2004?label=Followers&style=for-the-badge&color=2EA44F" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=AaronF2004&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AaronF2004?label=Followers&style=for-the-badge&color=2EA44F" alt="Followers" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <ul>
-        <li>🔭 <b>Currently Building:</b> Scalable web applications and full-stack solutions like <b>VestaGo</b> and <b>Tomato</b>.</li>
-        <li>🌱 <b>Currently Learning:</b> Advanced Cloud Architecture, Microservices & Distributed System Design.</li>
-        <li>👯 <b>Open to Collaborate On:</b> Open-source web projects, full-stack SaaS platforms, and developer tools.</li>
-        <li>💬 <b>Ask Me About:</b> JavaScript (ES6+), TypeScript, React.js, React Native, Node.js, Express.js, MongoDB, PostgreSQL & RESTful APIs.</li>
-        <li>🌐 <b>Live Portfolio:</b> <a href="https://aaronportfolio-phi.vercel.app"><b>aaronportfolio-phi.vercel.app</b></a></li>
-        <li>📫 <b>Direct Contact:</b> <a href="mailto:aaronfernandes08112004@gmail.com"><b>aaronfernandes08112004@gmail.com</b></a></li>
-      </ul>
-    </td>
-    <td width="38%" valign="middle" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronf2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+- 🎓 **Education:** B.Tech in Computer Science and Engineering from **Metropolitan Institute Of Technology and Management (MITM)**, India (2023 – 2026).
+- 💼 **Experience:** Former **Web Development Intern at Vyosim TechLab** (July 2025 – Oct 2025), building responsive JavaScript interfaces, integrating third-party RESTful APIs, and developing Node.js backend modules.
+- 🚀 **Core Focus:** Designing high-performance RESTful APIs, schema-validated MongoDB/SQL architectures, JWT/RBAC security, and responsive React frontends.
+- 📍 **Location:** Malvan, Maharashtra, India
+- 🌐 **Portfolio:** [aaronportfolio-phi.vercel.app](https://aaronportfolio-phi.vercel.app)
+- 📫 **Reach Me:** [aaronfernandes08112004@gmail.com](mailto:aaronfernandes08112004@gmail.com)
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Featured Full-Stack Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h3 align="center">🌐 VestaGo</h3>
-      <p align="center">
-        A scalable, production-grade full-stack web application built with modular backend architecture, responsive UI components, and optimized RESTful APIs.
+      <p align="center"><b>Stays & Dining Reservation Platform</b></p>
+      <p>
+        • Full-stack booking architecture with <b>RBAC</b>, <b>JWT</b> auth & <b>bcrypt</b> security.<br/>
+        • Custom SPA router (<code>pushState/popstate</code>), dark/light theme sync & <b>Mapbox GL JS</b> geocoding.<br/>
+        • Admin KPI aggregation, <b>Multer</b> multi-image uploads & automated <b>Brevo REST API</b> vouchers.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://aaronportfolio-phi.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo_%26_Details-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="VestaGo Live Demo" />
+        <a href="https://github.com/AaronF2004/VestaGo">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="VestaGo Repo" />
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h3 align="center">🍅 Tomato</h3>
-      <p align="center">
-        Full-stack food ordering and delivery web platform featuring real-time cart state management, secure authentication, and seamless order tracking.
+      <p align="center"><b>Food Ordering & Admin Platform</b></p>
+      <p>
+        • Responsive delivery app & admin dashboard built with <b>React.js</b>, <b>Vite</b> & <b>Express</b>.<br/>
+        • Multi-currency <b>Stripe Checkout</b> payments & automated <b>Brevo API</b> order receipts.<br/>
+        • Live order lifecycle tracking with automated admin polling & change-detection.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://aaronportfolio-phi.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo_%26_Details-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Tomato Live Demo" />
+        <a href="https://github.com/AaronF2004/Tomato-Food_del">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tomato Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h3 align="center">✍️ DevPress</h3>
+      <p align="center"><b>Editorial & Blogging Platform</b></p>
+      <p>
+        • Full-stack MERN blogging engine with <b>JWT</b> authentication & role-based moderation.<br/>
+        • Integrated <b>Cloudinary</b> media management, threaded discussions & atomic view counters.<br/>
+        • Decoupled CI/CD production deployment across <b>Vercel</b> and <b>Render</b>.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/AaronF2004/mern-blog-platform">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevPress Repo" />
         </a>
       </p>
     </td>
@@ -95,88 +110,65 @@
 
 ---
 
-### 🛠️ Languages, Frameworks & Tools
+### 🛠️ Technical Skills & Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,react,redux,tailwind,bootstrap,nodejs,express,mongodb,mysql,firebase,docker,git,github,vscode&perline=9" alt="Technical Skills Icons" />
+</p>
 
 <table>
   <tr>
-    <td align="center" width="25%"><b>Frontend & Mobile</b></td>
-    <td align="center" width="25%"><b>Backend & APIs</b></td>
-    <td align="center" width="25%"><b>Databases & Cloud</b></td>
-    <td align="center" width="25%"><b>Languages & DevOps</b></td>
+    <td width="25%" align="center"><b>Languages</b></td>
+    <td width="25%" align="center"><b>Frameworks & Libraries</b></td>
+    <td width="25%" align="center"><b>Backend & Cloud</b></td>
+    <td width="25%" align="center"><b>Tools & Practices</b></td>
   </tr>
   <tr>
-    <td align="center" valign="middle">
-      <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="38" height="38" hspace="4" vspace="4" /></a>
-      <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="38" height="38" hspace="4" vspace="4" /></a>
-      <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="38" height="38" hspace="4" vspace="4" /></a>
-      <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="38" height="38" hspace="4" vspace="4" /></a>
-      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="38" height="38" hspace="4" vspace="4" /></a>
-      <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="38" height="38" hspace="4" vspace="4" /></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" hspace="6" vspace="4" /></a>
-      <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="42" height="42" hspace="6" vspace="4" /></a>
-      <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="38" height="38" hspace="6" vspace="4" /></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" hspace="4" vspace="4" /></a>
-      <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" hspace="4" vspace="4" /></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" hspace="4" vspace="4" /></a>
-      <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="38" height="38" hspace="4" vspace="4" /></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" hspace="4" vspace="4" /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" hspace="4" vspace="4" /></a>
-      <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36" hspace="4" vspace="4" /></a>
-      <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" hspace="4" vspace="4" /></a>
-      <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="36" height="36" hspace="4" vspace="4" /></a>
-    </td>
+    <td align="center">JavaScript (ES6+)<br/>Java<br/>SQL<br/>HTML5 & CSS3</td>
+    <td align="center">React.js & Redux<br/>Node.js & Express.js<br/>Tailwind CSS & Bootstrap<br/>Mongoose</td>
+    <td align="center">MongoDB Atlas<br/>SQL & Firebase<br/>REST APIs & JWT Auth<br/>Docker</td>
+    <td align="center">Git & GitHub<br/>VS Code<br/>Stripe & Brevo APIs<br/>Cloudinary & Mapbox</td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics, Repos, Stars & Streak
+### 💼 Experience & Certifications
+
+- **Web Development Intern — Vyosim TechLab** *(July 2025 – Oct 2025 | On-Site)*
+  - Built responsive, cross-browser compatible UI components using JavaScript and DOM manipulation.
+  - Integrated third-party RESTful APIs, monitored web analytics dashboards for page load optimization, and collaborated on Node.js server-side architecture.
+- **Certifications:**
+  - 🏅 **Full Stack Development Certification (Frontend/Backend)** — *IBM SkillsBuild*
+  - 🏅 **Full Stack Development Certification** — *Infosys Springboard*
+  - 🏅 **Web Development Certification** — *Vyosim TechLab*
+
+---
+
+### 📊 GitHub Analytics, Languages & Streak
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=aaronf2004&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Aaron's GitHub Stats (Stars, Commits, Repos, PRs)" />
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronf2004&theme=tokyonight&hide_border=true" alt="Aaron's Contribution Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaronF2004&theme=tokyonight" width="98%" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronf2004&theme=tokyonight" width="98%" alt="GitHub Profile Summary & Commit Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AaronF2004&theme=tokyonight" width="48%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaronF2004&theme=tokyonight" width="48%" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaronf2004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6&margin-h=6" width="98%" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronF2004&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-### 📈 Contribution Activity & Commit Graph
+### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaronf2004&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronF2004&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
 </p>
 
 ---
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/aaron-fernandes-2467a536b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://aaronportfolio-phi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
-  </a>
-  <a href="mailto:aaronfernandes08112004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/aa_ron_1758" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
 
 <!-- Footer Wave -->
 <p align="center">
