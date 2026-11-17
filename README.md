@@ -32,12 +32,23 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Building:** Scalable web applications and full-stack solutions like **VestaGo** and **Tomato**.
-- 🌱 **Currently Learning:** Advanced Cloud Architecture, Microservices & Distributed System Design.
-- 👯 **Open to Collaborate On:** Open-source web projects, full-stack SaaS platforms, and developer tools.
-- 💬 **Ask Me About:** JavaScript (ES6+), TypeScript, React.js, React Native, Node.js, Express.js, MongoDB, PostgreSQL & RESTful APIs.
-- 🌐 **Live Portfolio:** [aaronportfolio-phi.vercel.app](https://aaronportfolio-phi.vercel.app)
-- 📫 **Direct Contact:** [aaronfernandes08112004@gmail.com](mailto:aaronfernandes08112004@gmail.com)
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <ul>
+        <li>🔭 <b>Currently Building:</b> Scalable web applications and full-stack solutions like <b>VestaGo</b> and <b>Tomato</b>.</li>
+        <li>🌱 <b>Currently Learning:</b> Advanced Cloud Architecture, Microservices & Distributed System Design.</li>
+        <li>👯 <b>Open to Collaborate On:</b> Open-source web projects, full-stack SaaS platforms, and developer tools.</li>
+        <li>💬 <b>Ask Me About:</b> JavaScript (ES6+), TypeScript, React.js, React Native, Node.js, Express.js, MongoDB, PostgreSQL & RESTful APIs.</li>
+        <li>🌐 <b>Live Portfolio:</b> <a href="https://aaronportfolio-phi.vercel.app"><b>aaronportfolio-phi.vercel.app</b></a></li>
+        <li>📫 <b>Direct Contact:</b> <a href="mailto:aaronfernandes08112004@gmail.com"><b>aaronfernandes08112004@gmail.com</b></a></li>
+      </ul>
+    </td>
+    <td width="38%" valign="middle" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronf2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -108,4 +119,66 @@
       <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="38" height="38" hspace="6" vspace="4" /></a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://www.mongodb.com/" target="_blank
+      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" hspace="4" vspace="4" /></a>
+      <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" hspace="4" vspace="4" /></a>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" hspace="4" vspace="4" /></a>
+      <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="38" height="38" hspace="4" vspace="4" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" hspace="4" vspace="4" /></a>
+      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" hspace="4" vspace="4" /></a>
+      <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36" hspace="4" vspace="4" /></a>
+      <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" hspace="4" vspace="4" /></a>
+      <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="36" height="36" hspace="4" vspace="4" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics, Repos, Stars & Streak
+
+<p align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=aaronf2004&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Aaron's GitHub Stats (Stars, Commits, Repos, PRs)" />
+  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronf2004&theme=tokyonight&hide_border=true" alt="Aaron's Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronf2004&theme=tokyonight" width="98%" alt="GitHub Profile Summary & Commit Breakdown" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaronf2004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6&margin-h=6" width="98%" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Contribution Activity & Commit Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaronf2004&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub Contribution Activity Graph" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/aaron-fernandes-2467a536b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://aaronportfolio-phi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
+  </a>
+  <a href="mailto:aaronfernandes08112004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/aa_ron_1758" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:0EA5E9&height=110&section=footer" width="100%" alt="Footer Banner" />
+</p>
